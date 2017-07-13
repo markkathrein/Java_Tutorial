@@ -4,7 +4,7 @@ package Rekursion;
 /**
  * 
  * @author link
- * Lösung Rekrusive durch erneuten aufruf der statischen methode fib()
+ * Lösung Rekrusive durch erneuten Aufruf der statischen Methode fib()
  * 
  */
 public class FibonacciRekrusive {    

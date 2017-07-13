@@ -11,8 +11,6 @@ import java.util.Arrays;
 public class FibonacciIterativArray {
     
     
-    
-    
     public static void main(String[]arg){
     
         // Laenge definieren
