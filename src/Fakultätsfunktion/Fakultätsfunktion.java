@@ -40,7 +40,7 @@ public class Fakultätsfunktion {
     
     public static void main(String[] args) {
     
-        // Objekt erzeugung der Klass Fakultätsfunktion
+        // Objekt Erzeugung der Klasse Fakultätsfunktion
         Fakultätsfunktion f = new Fakultätsfunktion();
         
         // Aufruf der Methode fakultaet
